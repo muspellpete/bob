@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Bob.unity
+    guid: 543df534d20ed6e48aa8cd6e2e62e72b
   m_configObjects: {}
